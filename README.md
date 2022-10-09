@@ -1,5 +1,5 @@
 
-# Dapper Linq Scaffold
+# .NET 6 Dapper Linq Scaffold
 
 This project is a scaffold for Dapper Linq usage via using PostgreSQL database for .NET 6. With the help of this project, you can use Dapper Linq in your projects very easily.
 
