@@ -1,7 +1,7 @@
 
-# .NET 6 Dapper Linq Scaffold
+# .NET 6 Dapper Linq with PostgreSQL Scaffold
 
-This project is a scaffold for Dapper Linq usage via using PostgreSQL database for .NET 6. With the help of this project, you can use Dapper Linq in your projects very easily.
+This project is a scaffold for Dapper Linq usage via using PostgreSQL database for .NET 6. With the help of this project, you can use Dapper Linq in your projects very easily. Also you can edit or add dialects to fit this project to any other databases such as MySQL, MSSQL or Oracle Db.
 
 You can access Dapper.Linq Github Page through here: https://github.com/tmsmith/Dapper-Extensions
 
