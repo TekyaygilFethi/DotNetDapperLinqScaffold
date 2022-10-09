@@ -5,7 +5,7 @@ This project is a scaffold for Dapper Linq usage via using PostgreSQL database f
 
 You can access Dapper.Linq Github Page through here: https://github.com/tmsmith/Dapper-Extensions
 
-Since this repository is about Dapper scaffold, Entity Framework Code First is being used for creating a new database on PostgreSQL.
+Despite this repository is about Dapper scaffold, Entity Framework Code First is being used for creating a new database on PostgreSQL.
 
 # Tech Stack
 
